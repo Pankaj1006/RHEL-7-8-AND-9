@@ -1,0 +1,13 @@
+https://www.simplylinuxfaq.com/p/major-differences-between-rhel-8-and-7.html#:~:text=Red%20Hat%20Enterprise%20Linux%207%20is%20distributed%20with%20three%20of,Git%2C%20SVN%2C%20and%20CVS.&text=Docker%20is%20not%20included%20in,as%20a%20fully%20supported%20feature.
+
+https://www.simplylinuxfaq.com/p/rhel9-vs-8-differences.html
+
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.0_release_notes/chap-red_hat_enterprise_linux-7.0_release_notes-architectures
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/8.0_release_notes/red_hat_enterprise_linux-8-8.0_release_notes-en-us.pdf
+
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/index
+
+https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
